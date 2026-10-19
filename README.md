@@ -61,8 +61,8 @@ institution is the `owners` field.
 | Field      | Description |
 | ---------- | ----------- |
 | `name`     | Node name, unique across **all** node files (links refer to nodes by name). |
-| `lat`      | Latitude in decimal degrees, −90 to 90. |
-| `lon`      | Longitude in decimal degrees, −180 to 180. |
+| `lat`      | Latitude in decimal degrees, −90 to 90. Not exactly `0` (use e.g. `0.0001`). |
+| `lon`      | Longitude in decimal degrees, −180 to 180. Not exactly `0` (use e.g. `0.0001`). |
 | `owners`   | List of institution `id`s. |
 | `networks` | Network name(s) shown for the node. |
 

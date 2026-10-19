@@ -4,8 +4,9 @@ Validate the RENMAP JSON data before generating GRENML.
 Checks every file in RENMAP/data, reports all problems at once (file and
 item index) and exits with status 1 if any errors were found; warnings
 are printed but don't fail. When the data is
-consistent it also runs the generator into a temporary directory, so
-errors raised by the grenml library itself show up here too.
+consistent it also runs the generator into a temporary directory and
+checks the output against the GRENML schema, so errors raised by the
+grenml library itself show up here too.
 
 Usage: uv run --project RENMAP RENMAP/scripts/validate.py
 """
@@ -139,6 +140,14 @@ def validate(data_dir=DATA_DIR):
                 report.error(where, f'"lat" out of range [-90, 90]: {node["lat"]}')
             if not -180 <= node["lon"] <= 180:
                 report.error(where, f'"lon" out of range [-180, 180]: {node["lon"]}')
+            for field in ("lat", "lon"):
+                # The grenml writer skips zero values, which yields a node
+                # without a valid location.
+                if node[field] == 0:
+                    report.error(
+                        where, f'"{field}" can\'t be exactly 0 (a grenml limitation); '
+                        "use a tiny offset such as 0.0001"
+                    )
             check_owners(node["owners"], institution_ids, where, report)
 
     # Links
@@ -174,15 +183,29 @@ def validate(data_dir=DATA_DIR):
 
 
 def check_generation():
-    """Run the generator in a scratch directory; return its error output, if any."""
+    """
+    Run the generator in a scratch directory and validate every file it
+    writes against the GRENML schema; return the error output, if any.
+    """
+    from grenml.parse import GRENMLParser
+
     with tempfile.TemporaryDirectory() as tmp:
         result = subprocess.run(
             [sys.executable, str(GENERATE_SCRIPT), "--output-dir", tmp],
             capture_output=True, text=True,
         )
-    if result.returncode != 0:
-        return (result.stdout + result.stderr).strip()
-    return None
+        if result.returncode != 0:
+            return (result.stdout + result.stderr).strip()
+        problems = []
+        for xml_file in sorted(Path(tmp).rglob("*.xml")):
+            try:
+                GRENMLParser().parse_file(str(xml_file))
+            except Exception as e:
+                # SchemaValidationError has no message of its own; the
+                # lxml error it wraps says what is wrong.
+                detail = str(e) or str(e.__cause__ or e.__context__ or "")
+                problems.append(f"{xml_file.relative_to(tmp)}: {type(e).__name__}: {detail}")
+    return "\n".join(problems) or None
 
 
 def main():
