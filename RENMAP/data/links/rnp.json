@@ -1,0 +1,378 @@
+[
+    {
+        "a": "Boa Vista",
+        "b": "Manaus",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Manaus",
+        "b": "Santarem",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Manaus",
+        "b": "Macapa",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Manaus",
+        "b": "Porto Velho",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Porto Velho",
+        "b": "Rio Branco",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Porto Velho",
+        "b": "Cuiaba",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Macapa",
+        "b": "Belem",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Macapa",
+        "b": "Santarem",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Belem",
+        "b": "Sao Luis",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Belem",
+        "b": "Palmas",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Palmas",
+        "b": "Brasilia",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Palmas",
+        "b": "Salvador",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Palmas",
+        "b": "Sao Luis",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Sao Luis",
+        "b": "Brasilia",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Sao Luis",
+        "b": "Teresina",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Teresina",
+        "b": "Brasilia",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Teresina",
+        "b": "Salvador",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Teresina",
+        "b": "Fortaleza",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Cuiaba",
+        "b": "Brasilia",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Cuiaba",
+        "b": "Campo Grande",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Cuiaba",
+        "b": "Araraquara",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Fortaleza",
+        "b": "Salvador",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Fortaleza",
+        "b": "Natal",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Fortaleza",
+        "b": "Campina Grande",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Natal",
+        "b": "Campina Grande",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Campina Grande",
+        "b": "Joao Pessoa",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Campina Grande",
+        "b": "Recife",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Recife",
+        "b": "Maceio",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Recife",
+        "b": "Aracaju",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Maceio",
+        "b": "Aracaju",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Aracaju",
+        "b": "Salvador",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Salvador",
+        "b": "Vitoria",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Salvador",
+        "b": "Belo Horizonte",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Vitoria",
+        "b": "Rio de Janeiro",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Belo Horizonte",
+        "b": "Rio de Janeiro",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Brasilia",
+        "b": "Belo Horizonte",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Belo Horizonte",
+        "b": "Sao Paulo",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Rio de Janeiro",
+        "b": "Sao Paulo",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Brasilia",
+        "b": "Sao Paulo",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Brasilia",
+        "b": "Goiania",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Goiania",
+        "b": "Sao Paulo",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Campo Grande",
+        "b": "Goiania",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Campo Grande",
+        "b": "Sao Paulo",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Araraquara",
+        "b": "Sao Paulo",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Sao Paulo",
+        "b": "Curitiba",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Curitiba",
+        "b": "Florianopolis",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    },
+    {
+        "a": "Florianopolis",
+        "b": "Porto Alegre",
+        "owners": [
+            "rnp"
+        ],
+        "networks": "RNP"
+    }
+]

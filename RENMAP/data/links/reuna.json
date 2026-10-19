@@ -1,0 +1,74 @@
+[
+    {
+        "a": "Arica",
+        "b": "Iquique",
+        "owners": [
+            "reuna"
+        ],
+        "networks": "REUNA"
+    },
+    {
+        "a": "Iquique",
+        "b": "Antofagasta",
+        "owners": [
+            "reuna"
+        ],
+        "networks": "REUNA"
+    },
+    {
+        "a": "Antofagasta",
+        "b": "La Serena",
+        "owners": [
+            "reuna"
+        ],
+        "networks": "REUNA"
+    },
+    {
+        "a": "La Serena",
+        "b": "Santiago",
+        "owners": [
+            "reuna"
+        ],
+        "networks": "REUNA"
+    },
+    {
+        "a": "Santiago",
+        "b": "Concepción",
+        "owners": [
+            "reuna"
+        ],
+        "networks": "REUNA"
+    },
+    {
+        "a": "Concepción",
+        "b": "Temuco",
+        "owners": [
+            "reuna"
+        ],
+        "networks": "REUNA"
+    },
+    {
+        "a": "Temuco",
+        "b": "Valdivia",
+        "owners": [
+            "reuna"
+        ],
+        "networks": "REUNA"
+    },
+    {
+        "a": "Valdivia",
+        "b": "Osorno",
+        "owners": [
+            "reuna"
+        ],
+        "networks": "REUNA"
+    },
+    {
+        "a": "Osorno",
+        "b": "Pto Montt",
+        "owners": [
+            "reuna"
+        ],
+        "networks": "REUNA"
+    }
+]

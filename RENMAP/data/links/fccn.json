@@ -1,0 +1,164 @@
+[
+    {
+        "a": "Valença",
+        "b": "Viana do Castelo",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Viana do Castelo",
+        "b": "Barcelos",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Viana do Castelo",
+        "b": "Porto",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Barcelos",
+        "b": "Braga",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Braga",
+        "b": "Porto",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Bragança",
+        "b": "Vila Real",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Bragança",
+        "b": "Guarda",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Porto",
+        "b": "Aveiro",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Porto",
+        "b": "Viseu",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Porto",
+        "b": "Vila Real",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Viseu",
+        "b": "Guarda",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Aveiro",
+        "b": "Coimbra",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Guarda",
+        "b": "Covilhã",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Coimbra",
+        "b": "Leiria",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Covilhã",
+        "b": "Castelo Branco",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Leiria",
+        "b": "Tomar",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Castelo Branco",
+        "b": "Tomar",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Castelo Branco",
+        "b": "Portalegre",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Tomar",
+        "b": "Santarém",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Portalegre",
+        "b": "Badajoz",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Portalegre",
+        "b": "Évora",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Santarém",
+        "b": "Lisboa",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Lisboa",
+        "b": "Setúbal",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Setúbal",
+        "b": "Évora",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Évora",
+        "b": "Beja",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Beja",
+        "b": "Sines",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    },
+    {
+        "a": "Beja",
+        "b": "Faro",
+        "owners": ["fccn"],
+        "networks": "FCCN"
+    }
+]

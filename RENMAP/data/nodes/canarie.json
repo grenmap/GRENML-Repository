@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Ottawa",
+    "lat": 45.42,
+    "lon": -75.69,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Toronto",
+    "lat": 43.70,
+    "lon": -79.41,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Halifax",
+    "lat": 44.64,
+    "lon": -63.59,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Winnipeg",
+    "lat": 49.89,
+    "lon": -97.15,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Calgary",
+    "lat": 51.05,
+    "lon": -114.06,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Saskatoon",
+    "lat": 52.13,
+    "lon": -106.68,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Charlottetown",
+    "lat": 46.24,
+    "lon": -63.13,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Fredericton",
+    "lat": 45.93,
+    "lon": -66.64,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "St. John's",
+    "lat": 47.56,
+    "lon": -52.71,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Moncton",
+    "lat": 46.13,
+    "lon": -64.77,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Edmonton",
+    "lat": 53.53,
+    "lon": -113.49,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Vancouver",
+    "lat": 49.25,
+    "lon": -123.10,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Victoria",
+    "lat": 48.43,
+    "lon": -123.36,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Surrey",
+    "lat": 49.19,
+    "lon": -122.85,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Regina",
+    "lat": 50.45,
+    "lon": -104.61,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Yukon College",
+    "lat": 60.72,
+    "lon": -135.05,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "name": "Aurora College",
+    "lat": 62.44,
+    "lon": -114.39,
+    "owners": [
+      "canarie"
+    ],
+    "networks": "CANARIE Inc."
+  }
+]

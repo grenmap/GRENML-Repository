@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Jacksonville",
+    "lat": 30.33,
+    "lon": -81.65,
+    "owners": [
+      "amlight"
+    ],
+    "networks": "AmLight"
+  },
+  {
+    "name": "Boca Raton",
+    "lat": 26.37,
+    "lon": -80.10,
+    "owners": [
+      "amlight"
+    ],
+    "networks": "AmLight"
+  },
+  {
+    "name": "Sangano",
+    "lat": -8.84,
+    "lon": 13.29,
+    "owners": [
+      "amlight"
+    ],
+    "networks": "AmLight"
+  },
+  {
+    "name": "Cape Town",
+    "lat": -33.92,
+    "lon": 18.42,
+    "owners": [
+      "amlight", "sanrentenet"
+    ],
+    "networks": "AmLight; SANReN/TENET"
+  }
+]

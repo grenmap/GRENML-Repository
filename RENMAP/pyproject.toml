@@ -1,0 +1,8 @@
+[project]
+name = "grenml-topologies"
+version = "0.1.0"
+description = "Generates the RENMAP GRENML topologies from the JSON data in RENMAP/data"
+requires-python = ">=3.12"
+dependencies = [
+    "grenml>=1.0.0",
+]

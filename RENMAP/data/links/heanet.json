@@ -1,0 +1,104 @@
+[
+    {
+        "a": "Letterkenny",
+        "b": "Sligo",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Letterkenny",
+        "b": "Dundalk",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Sligo",
+        "b": "Castlebar",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Dundalk",
+        "b": "Dublin",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Castlebar",
+        "b": "Galway",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Galway",
+        "b": "Athlone",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Galway",
+        "b": "Tipperary",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Athlone",
+        "b": "Dublin",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Dublin",
+        "b": "Park West",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Dublin",
+        "b": "Citywest",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Dublin",
+        "b": "Carlow",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Tipperary",
+        "b": "Limerick",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Limerick",
+        "b": "Tralee",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Tralee",
+        "b": "Cork",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Cork",
+        "b": "Waterford",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Waterford",
+        "b": "Wexford",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    },
+    {
+        "a": "Wexford",
+        "b": "Carlow",
+        "networks": "Asiera",
+        "owners": ["heanet"]
+    }
+]

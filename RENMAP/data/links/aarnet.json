@@ -1,0 +1,498 @@
+[
+    {
+        "a": "Perth",
+        "b": "Geraldton",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Perth",
+        "b": "Sydney",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Mullewa",
+        "b": "Perth",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Geraldton",
+        "b": "Mullewa",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Mullewa",
+        "b": "MRO",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "MRO",
+        "b": "Cue",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Perth",
+        "b": "Kalgoorlie",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Kalgoorlie",
+        "b": "Port Augusta",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Perth",
+        "b": "Port Hedland",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Port Hedland",
+        "b": "Darwin",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Darwin",
+        "b": "Alice Springs",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Alice Springs",
+        "b": "Adelaide",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Port Augusta",
+        "b": "Adelaide",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Port Augusta",
+        "b": "Whyalla",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Darwin",
+        "b": "Mt Isa",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Mt Isa",
+        "b": "Townsville",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Townsville",
+        "b": "Blackwater",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Mt Isa",
+        "b": "Longreach",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Longreach",
+        "b": "Emerald",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Emerald",
+        "b": "Blackwater",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Blackwater",
+        "b": "Rockhampton",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Cairns",
+        "b": "Townsville",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Townsville",
+        "b": "Mackay",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Mackay",
+        "b": "Rockhampton",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Rockhampton",
+        "b": "Gladstone",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Gladstone",
+        "b": "Sunshine Coast",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Sunshine Coast",
+        "b": "Brisbane",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Blackwater",
+        "b": "Roma, QLD",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Blackwater",
+        "b": "Brisbane",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Roma, QLD",
+        "b": "Toowoomba",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Toowoomba",
+        "b": "Brisbane",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Brisbane",
+        "b": "Gold Coast",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Gold Coast",
+        "b": "Lismore",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Brisbane",
+        "b": "Armidale",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Armidale",
+        "b": "Tamworth",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Tamworth",
+        "b": "Newcastle",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Toowoomba",
+        "b": "Narrabri",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Narrabri",
+        "b": "Parkes",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Narrabri",
+        "b": "Tamworth",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Parkes",
+        "b": "Sydney",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Lismore",
+        "b": "Port Macquarie",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Port Macquarie",
+        "b": "Newcastle",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Newcastle",
+        "b": "Sydney",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Sydney",
+        "b": "Wollongong",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Sydney",
+        "b": "Canberra",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Shepparton",
+        "b": "Sydney",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Shepparton",
+        "b": "Bendigo",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Shepparton",
+        "b": "Parkes",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Melbourne",
+        "b": "Bendigo",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Melbourne",
+        "b": "Canberra",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Bendigo",
+        "b": "Mildura",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Mildura",
+        "b": "Adelaide",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Mildura",
+        "b": "Shepparton",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Mildura",
+        "b": "Broken Hill",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Melbourne",
+        "b": "Ballarat",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Melbourne",
+        "b": "Geelong",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Ballarat",
+        "b": "Geelong",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Mt Gambier",
+        "b": "Bendigo",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Mt Gambier",
+        "b": "Adelaide",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Melbourne",
+        "b": "Launceston",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Launceston",
+        "b": "Hobart",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "a": "Melbourne",
+        "b": "Hobart",
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    }
+]

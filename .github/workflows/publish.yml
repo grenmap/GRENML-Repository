@@ -1,0 +1,52 @@
+name: Publish GRENML
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "RENMAP/data/**"
+      - "RENMAP/scripts/**"
+      - "RENMAP/pyproject.toml"
+      - "RENMAP/uv.lock"
+      - ".github/workflows/publish.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# One publish at a time; a newer run regenerates from the newer data.
+concurrency:
+  group: publish-grenml
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Install dependencies
+        run: uv sync --project RENMAP --frozen
+
+      - name: Validate JSON data
+        run: uv run --project RENMAP RENMAP/scripts/validate.py
+
+      - name: Generate GRENML
+        run: uv run --project RENMAP RENMAP/scripts/generate.py
+
+      - name: Commit generated files
+        run: |
+          git add -A RENMAP/topologies.xml RENMAP/topologies
+          if git diff --cached --quiet; then
+            echo "GRENML is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: regenerate GRENML [skip ci]" -m "Generated from ${GITHUB_SHA::7}."
+          # main may have moved while this ran; the generated files are only
+          # ever written by this workflow, so rebasing onto it is safe.
+          git pull --rebase origin main
+          git push origin HEAD:main

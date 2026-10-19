@@ -1,0 +1,26 @@
+[
+    {
+        "a": "London",
+        "b": "Lagos",
+        "networks": "SANReN/TENET",
+        "owners": ["sanrentenet"]
+    },
+    {
+        "a": "London",
+        "b": "Luanda",
+        "networks": "SANReN/TENET",
+        "owners": ["sanrentenet"]
+    },
+    {
+        "a": "Luanda",
+        "b": "Lagos",
+        "networks": "SANReN/TENET",
+        "owners": ["sanrentenet"]
+    },
+    {
+        "a": "Luanda",
+        "b": "Cape Town",
+        "networks": "SANReN/TENET",
+        "owners": ["sanrentenet"]
+    }
+]

@@ -1,0 +1,416 @@
+[
+    {
+        "name": "Perth",
+        "lat": -31.9505,
+        "lon": 115.8605,
+        "owners": [
+            "aarnet", "aarnet-int"
+        ],
+        "networks": "AARNet; AARNet International"
+    },
+    {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lon": 151.2093,
+        "owners": [
+            "aarnet", "aarnet-int"
+        ],
+        "networks": "AARNet; AARNet International"
+    },
+    {
+        "name": "Darwin",
+        "lat": -12.4634,
+        "lon": 130.8456,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Adelaide",
+        "lat": -34.9285,
+        "lon": 138.6007,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lon": 144.9631,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Canberra",
+        "lat": -35.2809,
+        "lon": 149.1300,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Brisbane",
+        "lat": -27.4698,
+        "lon": 153.0251,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Hobart",
+        "lat": -42.8821,
+        "lon": 147.3272,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Port Hedland",
+        "lat": -20.3107,
+        "lon": 118.6011,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Geraldton",
+        "lat": -28.7774,
+        "lon": 114.6150,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Mullewa",
+        "lat": -28.5397,
+        "lon": 115.5140,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "MRO",
+        "lat": -26.7033,
+        "lon": 116.6314,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Cue",
+        "lat": -27.4239,
+        "lon": 117.8956,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Kalgoorlie",
+        "lat": -30.7489,
+        "lon": 121.4658,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Alice Springs",
+        "lat": -23.6980,
+        "lon": 133.8807,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Port Augusta",
+        "lat": -32.4936,
+        "lon": 137.7648,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Whyalla",
+        "lat": -33.0328,
+        "lon": 137.5610,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Mildura",
+        "lat": -34.2080,
+        "lon": 142.1246,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Broken Hill",
+        "lat": -31.9539,
+        "lon": 141.4539,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Mt Gambier",
+        "lat": -37.8284,
+        "lon": 140.7807,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Shepparton",
+        "lat": -36.3805,
+        "lon": 145.3989,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Bendigo",
+        "lat": -36.7570,
+        "lon": 144.2794,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Ballarat",
+        "lat": -37.5622,
+        "lon": 143.8503,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Geelong",
+        "lat": -38.1499,
+        "lon": 144.3617,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Launceston",
+        "lat": -41.4332,
+        "lon": 147.1441,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Mt Isa",
+        "lat": -20.7256,
+        "lon": 139.4927,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Cairns",
+        "lat": -16.9186,
+        "lon": 145.7781,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Townsville",
+        "lat": -19.2590,
+        "lon": 146.8169,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Mackay",
+        "lat": -21.1411,
+        "lon": 149.1860,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Longreach",
+        "lat": -23.4403,
+        "lon": 144.2540,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Emerald",
+        "lat": -23.5273,
+        "lon": 148.1587,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Blackwater",
+        "lat": -23.5820,
+        "lon": 148.8790,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Rockhampton",
+        "lat": -23.3791,
+        "lon": 150.5100,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Gladstone",
+        "lat": -23.8489,
+        "lon": 151.2625,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Roma, QLD",
+        "lat": -26.5670,
+        "lon": 148.7897,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Sunshine Coast",
+        "lat": -26.6500,
+        "lon": 153.0667,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Toowoomba",
+        "lat": -27.5598,
+        "lon": 151.9507,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Gold Coast",
+        "lat": -28.0167,
+        "lon": 153.4000,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Lismore",
+        "lat": -28.8135,
+        "lon": 153.2773,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Armidale",
+        "lat": -30.5120,
+        "lon": 151.6693,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Narrabri",
+        "lat": -30.3260,
+        "lon": 149.7834,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Tamworth",
+        "lat": -31.0929,
+        "lon": 150.9291,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Port Macquarie",
+        "lat": -31.4308,
+        "lon": 152.9089,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Parkes",
+        "lat": -33.1372,
+        "lon": 148.1759,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Newcastle",
+        "lat": -32.9283,
+        "lon": 151.7817,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    },
+    {
+        "name": "Wollongong",
+        "lat": -34.4278,
+        "lon": 150.8931,
+        "owners": [
+            "aarnet"
+        ],
+        "networks": "AARNet"
+    }
+]

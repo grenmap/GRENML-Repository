@@ -1,0 +1,308 @@
+[
+    {
+        "a": "Kilpisjärvi",
+        "b": "Kalix",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kilpisjärvi",
+        "b": "Kaaresuvanto",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kilpisjärvi",
+        "b": "Sodankylä",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kalix",
+        "b": "Sodankylä",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kalix",
+        "b": "Kemi",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kalix",
+        "b": "Oulu",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kalix",
+        "b": "Vaasa",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Sodankylä",
+        "b": "Rovaniemi",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Sodankylä",
+        "b": "Kaaresuvanto",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Rovaniemi",
+        "b": "Kemi",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kemi",
+        "b": "Sodankylä",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kemi",
+        "b": "Oulu",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Rovaniemi",
+        "b": "Kajaani",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Oulu",
+        "b": "Kokkola",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Oulu",
+        "b": "Kajaani",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Oulu",
+        "b": "Vaasa",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kokkola",
+        "b": "Vaasa",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Vaasa",
+        "b": "Sundsvall",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Vaasa",
+        "b": "Stockholm",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Vaasa",
+        "b": "Turku",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Vaasa",
+        "b": "Seinäjoki",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Vaasa",
+        "b": "Jyväskylä",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Vaasa",
+        "b": "Pori",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kajaani",
+        "b": "Jyväskylä",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kajaani",
+        "b": "Kuopio",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kajaani",
+        "b": "Joensuu",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kajaani",
+        "b": "Mikkeli",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kuopio",
+        "b": "Joensuu",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kuopio",
+        "b": "Jyväskylä",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Joensuu",
+        "b": "Mikkeli",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Seinäjoki",
+        "b": "Jyväskylä",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Jyväskylä",
+        "b": "Tampere",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Jyväskylä",
+        "b": "Mikkeli",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Jyväskylä",
+        "b": "Helsinki/Espoo",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Jyväskylä",
+        "b": "Turku",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Tampere",
+        "b": "Hämeenlinna",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Tampere",
+        "b": "Turku",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Tampere",
+        "b": "Pori",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Pori",
+        "b": "Rauma",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Rauma",
+        "b": "Turku",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Hämeenlinna",
+        "b": "Helsinki/Espoo",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Mikkeli",
+        "b": "Lahti",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Mikkeli",
+        "b": "Helsinki/Espoo",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Mikkeli",
+        "b": "Lappeenranta",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Lahti",
+        "b": "Helsinki/Espoo",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Lappeenranta",
+        "b": "Kotka",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Kotka",
+        "b": "Porvoo",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Porvoo",
+        "b": "Helsinki/Espoo",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Turku",
+        "b": "Stockholm",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Turku",
+        "b": "Helsinki/Espoo",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "a": "Sundsvall",
+        "b": "Stockholm",
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    }
+]

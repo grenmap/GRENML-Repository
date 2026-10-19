@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Miami",
+    "lat": 25.76,
+    "lon": -80.19,
+    "owners": [
+      "redclara",
+      "amlight",
+      "aprex"
+    ],
+    "networks": "RedCLARA; AmLight; NA-REX"
+  },
+  {
+    "name": "San Juan",
+    "lat": 18.47,
+    "lon": -66.10,
+    "owners": [
+      "redclara",
+      "amlight"
+    ],
+    "networks": "RedCLARA; AmLight"
+  },
+  {
+    "name": "Panama City",
+    "lat": 8.98,
+    "lon": -79.52,
+    "owners": [
+      "redclara",
+      "amlight"
+    ],
+    "networks": "RedCLARA; AmLight"
+  },
+  {
+    "name": "Santiago",
+    "lat": -33.45,
+    "lon": -70.66,
+    "owners": [
+      "redclara",
+      "amlight",
+      "reuna"
+    ],
+    "networks": "RedCLARA; AmLight; REUNA"
+  },
+  {
+    "name": "Fortaleza",
+    "lat": -3.73,
+    "lon": -38.52,
+    "owners": [
+      "redclara",
+      "amlight",
+      "rnp"
+    ],
+    "networks": "RedCLARA; AmLight; RNP"
+  },
+  {
+    "name": "Sao Paulo",
+    "lat": -23.55,
+    "lon": -46.63,
+    "owners": [
+      "redclara",
+      "amlight"
+    ],
+    "networks": "RedCLARA; AmLight; RNP"
+  },
+  {
+    "name": "Porto Alegre",
+    "lat": -30.03,
+    "lon": -51.23,
+    "owners": [
+      "redclara",
+      "amlight"
+    ],
+    "networks": "RedCLARA; AmLight; RNP"
+  },
+  {
+    "name": "Buenos Aires",
+    "lat": -34.60,
+    "lon": -58.38,
+    "owners": [
+      "redclara",
+      "amlight"
+    ],
+    "networks": "RedCLARA; AmLight"
+  },
+  {
+    "name": "Manta",
+    "lat": -0.95,
+    "lon": -80.73,
+    "owners": [
+      "redclara",
+      "cedia"
+    ],
+    "networks": "RedCLARA; CEDIA"
+  }
+]

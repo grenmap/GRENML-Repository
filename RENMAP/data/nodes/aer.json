@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Jeddah",
+        "lat": 21.4497255,
+        "lon": 38.6203258,
+        "owners": [
+            "aer", "aarnet-int"
+        ],
+        "networks": "AER; AARNet International"
+    },
+    {
+        "name": "Hong Kong",
+        "lat": 22.3530259,
+        "lon": 113.8097559,
+        "owners": [
+            "aer"
+        ],
+        "networks": "AER"
+    }
+]

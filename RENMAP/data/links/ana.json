@@ -1,0 +1,92 @@
+[
+    {
+        "a": "Montreal",
+        "b": "Chicago",
+        "networks": "ANA",
+        "owners": ["ana"]
+    },
+    {
+        "a": "Montreal",
+        "b": "Amsterdam",
+        "networks": "ANA",
+        "owners": ["ana"]
+    },
+    {
+        "a": "Montreal",
+        "b": "Washington",
+        "networks": "ANA",
+        "owners": ["ana"]
+    },
+    {
+        "a": "Geneva",
+        "b": "Washington",
+        "networks": "ANA",
+        "owners": ["ana"]
+    },
+    {
+        "a": "Paris",
+        "b": "Amsterdam",
+        "networks": "ANA",
+        "owners": ["ana"]
+    },
+    {
+        "a": "Paris",
+        "b": "London",
+        "networks": "ANA",
+        "owners": ["ana"]
+    },
+    {
+        "a": "Paris",
+        "b": "New York",
+        "networks": "ANA",
+        "owners": ["ana"]
+    },
+    {
+        "a": "Amsterdam",
+        "b": "Montreal",
+        "networks": "ANA",
+        "owners": ["ana"]
+    },
+    {
+        "a": "Amsterdam",
+        "b": "New York",
+        "networks": "ANA",
+        "owners": ["ana"]
+    },
+    {
+        "a": "New York",
+        "b": "Amsterdam",
+        "networks": "ANA",
+        "owners": ["ana"]
+    },
+    {
+        "a": "Amsterdam",
+        "b": "Boston",
+        "networks": "ANA",
+        "owners": ["ana"]
+    },
+    {
+        "a": "London",
+        "b": "New York",
+        "networks": "ANA",
+        "owners": ["ana"]
+    },
+    {
+        "a": "London",
+        "b": "Washington",
+        "networks": "ANA",
+        "owners": ["ana"]
+    },
+    {
+        "a": "New York",
+        "b": "London",
+        "networks": "ANA",
+        "owners": ["ana"]
+    },
+    {
+        "a": "Washington",
+        "b": "London",
+        "networks": "ANA",
+        "owners": ["ana"]
+    }
+]

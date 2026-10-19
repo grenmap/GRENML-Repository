@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Lagos",
+        "lat": 6.5483694,
+        "lon": 3.1191504,
+        "owners": [
+            "sanrentenet"
+        ],
+        "networks": "SANReN/TENET"
+    },
+    {
+        "name": "Luanda",
+        "lat": -8.8531570,
+        "lon": 13.1192957,
+        "owners": [
+            "sanrentenet"
+        ],
+        "networks": "SANReN/TENET"
+    }
+]

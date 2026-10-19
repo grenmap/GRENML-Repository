@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Washington",
+        "lat": 38.8938592,
+        "lon": -77.0969763,
+        "owners": [
+            "ana"
+        ],
+        "networks": "ANA"
+    }
+]

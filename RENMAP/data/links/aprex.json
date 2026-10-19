@@ -1,0 +1,92 @@
+[
+    {
+        "a": "Seattle",
+        "b": "Sunnyvale",
+        "owners": ["aprex"],
+        "networks": "NA-REX"
+    },
+    {
+        "a": "Sunnyvale",
+        "b": "Los Angeles",
+        "owners": ["aprex"],
+        "networks": "NA-REX"
+    },
+    {
+        "a": "Seattle",
+        "b": "Chicago",
+        "owners": ["aprex"],
+        "networks": "NA-REX"
+    },
+    {
+        "a": "Los Angeles",
+        "b": "Chicago",
+        "owners": ["aprex"],
+        "networks": "NA-REX"
+    },
+    {
+        "a": "Los Angeles",
+        "b": "Atlanta",
+        "owners": ["aprex"],
+        "networks": "NA-REX"
+    },
+    {
+        "a": "Chicago",
+        "b": "Montreal",
+        "owners": ["aprex"],
+        "networks": "NA-REX"
+    },
+    {
+        "a": "Chicago",
+        "b": "Boston",
+        "owners": ["aprex"],
+        "networks": "NA-REX"
+    },
+    {
+        "a": "Chicago",
+        "b": "McLean, VA",
+        "owners": ["aprex"],
+        "networks": "NA-REX"
+    },
+    {
+        "a": "Chicago",
+        "b": "Atlanta",
+        "owners": ["aprex"],
+        "networks": "NA-REX"
+    },
+    {
+        "a": "Montreal",
+        "b": "New York",
+        "owners": ["aprex", "ana", "canarie"],
+        "networks": "NA-REX; ANA; CANARIE Inc."
+    },
+    {
+        "a": "Boston",
+        "b": "New York",
+        "owners": ["aprex"],
+        "networks": "NA-REX"
+    },
+    {
+        "a": "Boston",
+        "b": "McLean, VA",
+        "owners": ["aprex"],
+        "networks": "NA-REX"
+    },
+    {
+        "a": "New York",
+        "b": "McLean, VA",
+        "owners": ["aprex"],
+        "networks": "NA-REX"
+    },
+    {
+        "a": "McLean, VA",
+        "b": "Atlanta",
+        "owners": ["aprex"],
+        "networks": "NA-REX"
+    },
+    {
+        "a": "Atlanta",
+        "b": "Miami",
+        "owners": ["aprex"],
+        "networks": "NA-REX"
+    }
+]

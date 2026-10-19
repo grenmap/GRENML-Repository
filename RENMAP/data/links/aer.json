@@ -1,0 +1,38 @@
+[
+    {
+        "a": "London",
+        "b": "Amsterdam",
+        "networks": "AER",
+        "owners": ["aer"]
+    },
+    {
+        "a": "London",
+        "b": "Singapore",
+        "networks": "AER",
+        "owners": ["aer"]
+    },
+    {
+        "a": "Amsterdam",
+        "b": "Jeddah",
+        "networks": "AER",
+        "owners": ["aer"]
+    },
+    {
+        "a": "Jeddah",
+        "b": "Singapore",
+        "networks": "AER",
+        "owners": ["aer"]
+    },
+    {
+        "a": "Singapore",
+        "b": "Hong Kong",
+        "networks": "AER",
+        "owners": ["aer"]
+    },
+    {
+        "a": "Hong Kong",
+        "b": "Tokyo",
+        "networks": "AER",
+        "owners": ["aer"]
+    }
+]

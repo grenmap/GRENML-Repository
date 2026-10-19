@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Boa Vista",
+    "lat": 2.82,
+    "lon": -60.67,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Manaus",
+    "lat": -3.10,
+    "lon": -60.02,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Porto Velho",
+    "lat": -8.76,
+    "lon": -63.90,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Rio Branco",
+    "lat": -9.97,
+    "lon": -67.81,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Santarem",
+    "lat": -2.44,
+    "lon": -54.70,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Macapa",
+    "lat": 0.03,
+    "lon": -51.07,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Belem",
+    "lat": -1.45,
+    "lon": -48.49,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Cuiaba",
+    "lat": -15.60,
+    "lon": -56.10,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Sao Luis",
+    "lat": -2.53,
+    "lon": -44.30,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Palmas",
+    "lat": -10.18,
+    "lon": -48.33,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Teresina",
+    "lat": -5.09,
+    "lon": -42.80,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Brasilia",
+    "lat": -15.79,
+    "lon": -47.88,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Goiania",
+    "lat": -16.68,
+    "lon": -49.25,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Campo Grande",
+    "lat": -20.47,
+    "lon": -54.62,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Araraquara",
+    "lat": -21.79,
+    "lon": -48.18,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Curitiba",
+    "lat": -25.43,
+    "lon": -49.27,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Florianopolis",
+    "lat": -27.59,
+    "lon": -48.55,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Rio de Janeiro",
+    "lat": -22.91,
+    "lon": -43.17,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Belo Horizonte",
+    "lat": -19.92,
+    "lon": -43.94,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Vitoria",
+    "lat": -20.32,
+    "lon": -40.34,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Salvador",
+    "lat": -12.97,
+    "lon": -38.50,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Aracaju",
+    "lat": -10.91,
+    "lon": -37.07,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Maceio",
+    "lat": -9.66,
+    "lon": -35.74,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Recife",
+    "lat": -8.05,
+    "lon": -34.88,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Campina Grande",
+    "lat": -7.23,
+    "lon": -35.88,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Joao Pessoa",
+    "lat": -7.12,
+    "lon": -34.86,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
+    "name": "Natal",
+    "lat": -5.79,
+    "lon": -35.21,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  }
+]

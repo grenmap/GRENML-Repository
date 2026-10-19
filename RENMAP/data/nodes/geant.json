@@ -1,0 +1,438 @@
+[
+  {
+    "name": "Amsterdam",
+    "lat": 52.3676,
+    "lon": 4.9041,
+    "owners": [
+      "geant",
+      "ana",
+      "aer"
+    ],
+    "networks": "GÉANT; ANA; AER"
+  },
+  {
+    "name": "Athens",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Belgrade",
+    "lat": 44.7866,
+    "lon": 20.4489,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Berlin",
+    "lat": 52.5200,
+    "lon": 13.4050,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Bilbao",
+    "lat": 43.2630,
+    "lon": -2.9350,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Bratislava",
+    "lat": 48.1486,
+    "lon": 17.1077,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Brussels",
+    "lat": 50.8503,
+    "lon": 4.3517,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Bucharest",
+    "lat": 44.4268,
+    "lon": 26.1025,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Budapest",
+    "lat": 47.4979,
+    "lon": 19.0402,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Chișinău",
+    "lat": 47.0105,
+    "lon": 28.8638,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Copenhagen",
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Cork",
+    "lat": 51.8985,
+    "lon": -8.4756,
+    "owners": [
+      "geant",
+      "heanet"
+    ],
+    "networks": "GÉANT; Asiera"
+  },
+  {
+    "name": "Dublin",
+    "lat": 53.3498,
+    "lon": -6.2603,
+    "owners": [
+      "geant",
+      "heanet"
+    ],
+    "networks": "GÉANT; Asiera"
+  },
+  {
+    "name": "Frankfurt",
+    "lat": 50.1109,
+    "lon": 8.6821,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Geneva",
+    "lat": 46.2044,
+    "lon": 6.1432,
+    "owners": [
+      "geant",
+      "ana"
+    ],
+    "networks": "GÉANT; ANA"
+  },
+  {
+    "name": "Hamburg",
+    "lat": 53.5511,
+    "lon": 9.9937,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Istanbul",
+    "lat": 41.0082,
+    "lon": 28.9784,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Kaunas",
+    "lat": 54.8985,
+    "lon": 23.9036,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Kyiv",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Lisbon",
+    "lat": 38.7223,
+    "lon": -9.1393,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Ljubljana",
+    "lat": 46.0569,
+    "lon": 14.5058,
+    "owners": [
+      "geant",
+      "arnes"
+    ],
+    "networks": "GÉANT; ARNES"
+  },
+  {
+    "name": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "owners": [
+      "geant",
+      "ana",
+      "aer",
+      "sanrentenet",
+      "aarnet-int"
+    ],
+    "networks": "GÉANT; ANA; AER; SANReN/TENET; AARNet International"
+  },
+  {
+    "name": "Luxembourg",
+    "lat": 49.6116,
+    "lon": 6.1319,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Madrid",
+    "lat": 40.4168,
+    "lon": -3.7038,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Marseille",
+    "lat": 43.2965,
+    "lon": 5.3698,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Milan",
+    "lat": 45.4642,
+    "lon": 9.1900,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Nicosia",
+    "lat": 35.1856,
+    "lon": 33.3823,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Oslo",
+    "lat": 59.9139,
+    "lon": 10.7522,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "owners": [
+      "geant",
+      "ana"
+    ],
+    "networks": "GÉANT; ANA"
+  },
+  {
+    "name": "Podgorica",
+    "lat": 42.4304,
+    "lon": 19.2594,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "POR",
+    "lat": 42.8805,
+    "lon": -8.5457,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Poznań",
+    "lat": 52.4064,
+    "lon": 16.9252,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Prague",
+    "lat": 50.0755,
+    "lon": 14.4378,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Reykjavík",
+    "lat": 64.1466,
+    "lon": -21.9426,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Riga",
+    "lat": 56.9496,
+    "lon": 24.1052,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Sines",
+    "lat": 37.9561,
+    "lon": -8.8698,
+    "owners": [
+      "geant",
+      "fccn"
+    ],
+    "networks": "GÉANT; FCCN"
+  },
+  {
+    "name": "Skopje",
+    "lat": 41.9981,
+    "lon": 21.4254,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Sofia",
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Stockholm",
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "owners": [
+      "geant",
+      "funet"
+    ],
+    "networks": "GÉANT; CSC/FUNET"
+  },
+  {
+    "name": "Tallinn",
+    "lat": 59.4370,
+    "lon": 24.7536,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Tel Aviv",
+    "lat": 32.0853,
+    "lon": 34.7818,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Thessaloniki",
+    "lat": 40.6401,
+    "lon": 22.9444,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Tirana",
+    "lat": 41.3275,
+    "lon": 19.8187,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Valencia",
+    "lat": 39.4699,
+    "lon": -0.3763,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Vienna",
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  },
+  {
+    "name": "Zagreb",
+    "lat": 45.8150,
+    "lon": 15.9819,
+    "owners": [
+      "geant"
+    ],
+    "networks": "GÉANT"
+  }
+]

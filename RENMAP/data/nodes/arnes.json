@@ -1,0 +1,443 @@
+[
+    {
+        "name": "Jesenice",
+        "lat": 46.4305600,
+        "lon": 14.0669400,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Tolmin",
+        "lat": 46.1856300,
+        "lon": 13.7256300,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Radovljica",
+        "lat": 46.3605300,
+        "lon": 14.1322000,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Nova Gorica",
+        "lat": 45.9559500,
+        "lon": 13.6415400,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Kranj",
+        "lat": 46.2380500,
+        "lon": 14.3555600,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Škofja Loka",
+        "lat": 46.1666700,
+        "lon": 14.3083300,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Kamnik",
+        "lat": 46.2271600,
+        "lon": 14.6129900,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Domžale",
+        "lat": 46.1517800,
+        "lon": 14.5959100,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Idrija",
+        "lat": 46.0083300,
+        "lon": 14.0288900,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Ajdovščina",
+        "lat": 45.8808300,
+        "lon": 13.8747200,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Vipava",
+        "lat": 45.8763900,
+        "lon": 13.9666700,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Logatec",
+        "lat": 45.9466700,
+        "lon": 14.2083300,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Vrhnika",
+        "lat": 45.9438900,
+        "lon": 14.3261100,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Sežana",
+        "lat": 45.6427800,
+        "lon": 13.8569400,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Grosuplje",
+        "lat": 45.9577800,
+        "lon": 14.6763900,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Zagorje ob Savi",
+        "lat": 46.1372200,
+        "lon": 14.9986100,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Litija",
+        "lat": 46.0486100,
+        "lon": 14.8380600,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Ivančna Gorica",
+        "lat": 45.9263900,
+        "lon": 14.7991700,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Koper",
+        "lat": 45.5475000,
+        "lon": 13.7304200,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Izola",
+        "lat": 45.5380600,
+        "lon": 13.6805600,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Portorož",
+        "lat": 45.5175000,
+        "lon": 13.5783300,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Divača",
+        "lat": 45.6377800,
+        "lon": 13.9950000,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Razdrto",
+        "lat": 45.7375000,
+        "lon": 14.1033300,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Postojna",
+        "lat": 45.7780500,
+        "lon": 14.2169400,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Kočevje",
+        "lat": 45.6483300,
+        "lon": 14.8591700,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Crnomelj",
+        "lat": 45.5666700,
+        "lon": 15.1916700,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Novo mesto",
+        "lat": 45.8030500,
+        "lon": 15.1685700,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Krško",
+        "lat": 45.9558300,
+        "lon": 15.4791700,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Brežice",
+        "lat": 45.9030600,
+        "lon": 15.6047200,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Trbovlje",
+        "lat": 46.1500000,
+        "lon": 15.0500000,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Laško",
+        "lat": 46.1547200,
+        "lon": 15.2436100,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Šentjur",
+        "lat": 46.2361100,
+        "lon": 15.3941700,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Celje",
+        "lat": 46.2361100,
+        "lon": 15.2672200,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Velenje",
+        "lat": 46.3583300,
+        "lon": 15.1100000,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Ravne na Koroškem",
+        "lat": 46.4577800,
+        "lon": 14.9861100,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Slovenj Gradec",
+        "lat": 46.5083300,
+        "lon": 15.0700000,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Dravograd",
+        "lat": 46.5313900,
+        "lon": 15.0638900,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Rogaška Slatina",
+        "lat": 46.2388900,
+        "lon": 15.5691700,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Slovenske Konjice",
+        "lat": 46.3300000,
+        "lon": 15.3911100,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Slovenska Bistrica",
+        "lat": 46.3522200,
+        "lon": 15.5627800,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Ruše",
+        "lat": 46.4825000,
+        "lon": 15.5825000,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Maribor",
+        "lat": 46.5546500,
+        "lon": 15.6458800,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Ormož",
+        "lat": 46.4463900,
+        "lon": 16.1311100,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Radenci",
+        "lat": 46.6527800,
+        "lon": 16.1600000,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Gornja Radgona",
+        "lat": 46.6761100,
+        "lon": 15.9863900,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Murska Sobota",
+        "lat": 46.6625000,
+        "lon": 16.1666700,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Lendava",
+        "lat": 46.5666700,
+        "lon": 16.4561100,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Ljutomer",
+        "lat": 46.4652800,
+        "lon": 16.1802800,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    },
+    {
+        "name": "Ptuj",
+        "lat": 46.4191700,
+        "lon": 15.8750000,
+        "owners": [
+            "arnes"
+        ],
+        "networks": "ARNES"
+    }
+]

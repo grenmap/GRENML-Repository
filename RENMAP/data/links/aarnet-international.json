@@ -1,0 +1,42 @@
+[
+    {
+        "a": "Perth",
+        "b": "Singapore",
+        "owners": [
+            "aarnet-int"
+        ],
+        "networks": "AARNet International"
+    },
+    {
+        "a": "Singapore",
+        "b": "Guam",
+        "owners": [
+            "aarnet-int"
+        ],
+        "networks": "AARNet International"
+    },
+    {
+        "a": "Guam",
+        "b": "Sydney",
+        "owners": [
+            "aarnet-int"
+        ],
+        "networks": "AARNet International"
+    },
+    {
+        "a": "Singapore",
+        "b": "Jeddah",
+        "owners": [
+            "aarnet-int"
+        ],
+        "networks": "AARNet International"
+    },
+    {
+        "a": "Jeddah",
+        "b": "London",
+        "owners": [
+            "aarnet-int"
+        ],
+        "networks": "AARNet International"
+    }
+]

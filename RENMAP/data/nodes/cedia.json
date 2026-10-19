@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Quevedo",
+        "lat": -1.02,
+        "lon": -79.46,
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "name": "Salinas",
+        "lat": -2.22,
+        "lon": -80.95,
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "name": "Tulcan",
+        "lat": 0.81,
+        "lon": -77.71,
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "name": "Ibarra",
+        "lat": 0.34,
+        "lon": -78.12,
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "name": "Loja",
+        "lat": -4.0,
+        "lon": -79.2,
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "name": "Guayaquil",
+        "lat": -2.17,
+        "lon": -79.92,
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "name": "Riobamba",
+        "lat": -1.64,
+        "lon": -78.67,
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "name": "Cuenca",
+        "lat": -2.88,
+        "lon": -79.01,
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "name": "Ambato",
+        "lat": -1.26,
+        "lon": -78.62,
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "name": "Guaranda",
+        "lat": -1.59,
+        "lon": -79.0,
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "name": "Quito",
+        "lat": -0.18065,
+        "lon": -78.46783,
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "name": "Milagro",
+        "lat": -2.13,
+        "lon": -79.58,
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "name": "Santo Domingo",
+        "lat": -0.26,
+        "lon": -79.18,
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "name": "Portoviejo",
+        "lat": -1.0546,
+        "lon": -80.4545,
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    }
+]

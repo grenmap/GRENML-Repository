@@ -1,0 +1,59 @@
+name: Validate topology
+
+on:
+  pull_request:
+    paths:
+      - "RENMAP/data/**"
+      - "RENMAP/scripts/**"
+      - "RENMAP/pyproject.toml"
+      - "RENMAP/uv.lock"
+      - ".github/workflows/validate.yml"
+
+# Read-only, so it also runs on pull requests from forks.
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check out the base branch (for the change summary)
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          path: base
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Install dependencies
+        run: uv sync --project RENMAP --frozen
+
+      - name: Validate JSON data
+        # An explicit "shell: bash" adds -o pipefail, so tee doesn't hide a failure.
+        shell: bash
+        run: uv run --project RENMAP RENMAP/scripts/validate.py 2>&1 | tee validate.txt
+
+      - name: Report validation problems
+        if: failure()
+        run: |
+          {
+            echo "## Validation failed"
+            echo
+            echo '```'
+            cat validate.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Generate GRENML
+        run: uv run --project RENMAP RENMAP/scripts/generate.py --output-dir generated
+
+      - name: Summarize changes
+        run: python3 RENMAP/scripts/summary.py base/RENMAP/data RENMAP/data >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload generated GRENML
+        uses: actions/upload-artifact@v4
+        with:
+          name: grenml
+          path: generated/
