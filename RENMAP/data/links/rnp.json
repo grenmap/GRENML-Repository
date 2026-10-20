@@ -33,14 +33,6 @@
     },
     {
         "a": "Porto Velho",
-        "b": "Rio Branco",
-        "owners": [
-            "rnp"
-        ],
-        "networks": "RNP"
-    },
-    {
-        "a": "Porto Velho",
         "b": "Cuiaba",
         "owners": [
             "rnp"
