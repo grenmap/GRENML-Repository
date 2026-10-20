@@ -1,0 +1,170 @@
+[
+    {
+        "a": "Guayaquil",
+        "b": "Portoviejo",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Ibarra",
+        "b": "Quito",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Quevedo",
+        "b": "Milagro",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Quevedo",
+        "b": "Manta",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Quito",
+        "b": "Guaranda",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Quito",
+        "b": "Ambato",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Ambato",
+        "b": "Riobamba",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Manta",
+        "b": "Salinas",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Santo Domingo",
+        "b": "Quevedo",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Riobamba",
+        "b": "Cuenca",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Ibarra",
+        "b": "Tulcan",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Quito",
+        "b": "Quevedo",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Guaranda",
+        "b": "Riobamba",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Portoviejo",
+        "b": "Manta",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Salinas",
+        "b": "Guayaquil",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Guayaquil",
+        "b": "Loja",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Milagro",
+        "b": "Guayaquil",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Quito",
+        "b": "Santo Domingo",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Portoviejo",
+        "b": "Quevedo",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Cuenca",
+        "b": "Loja",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    },
+    {
+        "a": "Riobamba",
+        "b": "Milagro",
+        "owners": [
+            "cedia"
+        ],
+        "networks": "CEDIA"
+    }
+]

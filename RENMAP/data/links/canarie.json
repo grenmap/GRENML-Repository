@@ -1,0 +1,176 @@
+[
+  {
+    "a": "Ottawa",
+    "b": "Toronto",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Ottawa",
+    "b": "Montreal",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Montreal",
+    "b": "Toronto",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Montreal",
+    "b": "Fredericton",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Montreal",
+    "b": "Halifax",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Fredericton",
+    "b": "Moncton",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Moncton",
+    "b": "Halifax",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Moncton",
+    "b": "Charlottetown",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Halifax",
+    "b": "St. John's",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Charlottetown",
+    "b": "St. John's",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Winnipeg",
+    "b": "Toronto",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Winnipeg",
+    "b": "Saskatoon",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Saskatoon",
+    "b": "Regina",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Winnipeg",
+    "b": "Regina",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Saskatoon",
+    "b": "Edmonton",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Edmonton",
+    "b": "Calgary",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Vancouver",
+    "b": "Calgary",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Vancouver",
+    "b": "Surrey",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Surrey",
+    "b": "Edmonton",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Victoria",
+    "b": "Vancouver",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Victoria",
+    "b": "Seattle",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Vancouver",
+    "b": "Seattle",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Surrey",
+    "b": "Seattle",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Calgary",
+    "b": "Regina",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Edmonton",
+    "b": "Yukon College",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Toronto",
+    "b": "New York",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Toronto",
+    "b": "Chicago",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Winnipeg",
+    "b": "Chicago",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  },
+  {
+    "a": "Calgary",
+    "b": "Aurora College",
+    "owners": ["canarie"],
+    "networks": "CANARIE Inc."
+  }
+]

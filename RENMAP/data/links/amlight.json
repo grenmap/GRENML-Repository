@@ -1,0 +1,92 @@
+[
+    {
+        "a": "Atlanta",
+        "b": "Jacksonville",
+        "owners": [
+            "amlight"
+        ],
+        "networks": "AmLight"
+    },
+    {
+        "a": "Atlanta",
+        "b": "Boca Raton",
+        "owners": [
+            "amlight"
+        ],
+        "networks": "AmLight"
+    },
+    {
+        "a": "Jacksonville",
+        "b": "Miami",
+        "owners": [
+            "amlight"
+        ],
+        "networks": "AmLight"
+    },
+    {
+        "a": "Boca Raton",
+        "b": "Miami",
+        "owners": [
+            "amlight"
+        ],
+        "networks": "AmLight"
+    },
+    {
+        "a": "Boca Raton",
+        "b": "Fortaleza",
+        "owners": [
+            "amlight"
+        ],
+        "networks": "AmLight"
+    },
+    {
+        "a": "Boca Raton",
+        "b": "Sao Paulo",
+        "owners": [
+            "amlight"
+        ],
+        "networks": "AmLight"
+    },
+    {
+        "a": "Fortaleza",
+        "b": "Sines",
+        "owners": [
+            "redclara", "geant"
+        ],
+        "networks": "RedCLARA; GÉANT"
+    },
+    {
+        "a": "Fortaleza",
+        "b": "Sangano",
+        "owners": [
+            "amlight"
+        ],
+        "networks": "AmLight"
+    },
+    {
+        "a": "Sangano",
+        "b": "Cape Town",
+        "owners": [
+            "amlight"
+        ],
+        "networks": "AmLight"
+    },
+    {
+        "a": "Sao Paulo",
+        "b": "Fortaleza",
+        "owners": [
+            "redclara",
+            "amlight",
+            "rnp"
+        ],
+        "networks": "RedCLARA; AmLight; RNP"
+    },
+    {
+        "a": "Sao Paulo",
+        "b": "Buenos Aires",
+        "owners": [
+            "amlight"
+        ],
+        "networks": "AmLight"
+    }
+]

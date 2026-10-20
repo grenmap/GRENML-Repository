@@ -1,0 +1,184 @@
+[
+    {
+        "name": "Kilpisjärvi",
+        "lat": 69.0442890,
+        "lon": 20.8032990,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Kaaresuvanto",
+        "lat": 68.4510500,
+        "lon": 22.4859200,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Sodankylä",
+        "lat": 67.4166700,
+        "lon": 26.6000000,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Rovaniemi",
+        "lat": 66.5000000,
+        "lon": 25.7166670,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Kalix",
+        "lat": 65.8529800,
+        "lon": 23.1564500,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Kemi",
+        "lat": 65.7361100,
+        "lon": 24.5636100,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Oulu",
+        "lat": 65.0123600,
+        "lon": 25.4681600,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Kajaani",
+        "lat": 64.2250000,
+        "lon": 27.7330000,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Kokkola",
+        "lat": 63.8390000,
+        "lon": 23.1306590,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Vaasa",
+        "lat": 63.0960000,
+        "lon": 21.6157700,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Seinäjoki",
+        "lat": 62.7900000,
+        "lon": 22.8400000,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Kuopio",
+        "lat": 62.8925000,
+        "lon": 27.6783300,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Joensuu",
+        "lat": 62.6000000,
+        "lon": 29.7600000,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Sundsvall",
+        "lat": 62.3908000,
+        "lon": 17.3069000,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Jyväskylä",
+        "lat": 62.2415000,
+        "lon": 25.7209000,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Mikkeli",
+        "lat": 61.6880000,
+        "lon": 27.2723000,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Tampere",
+        "lat": 61.4981600,
+        "lon": 23.7610554,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Pori",
+        "lat": 61.4850000,
+        "lon": 21.7970000,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Rauma",
+        "lat": 61.1280000,
+        "lon": 21.5010000,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Hämeenlinna",
+        "lat": 60.9950000,
+        "lon": 24.4670000,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Lahti",
+        "lat": 60.9830000,
+        "lon": 25.6590000,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Lappeenranta",
+        "lat": 61.0580000,
+        "lon": 28.1880000,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Turku",
+        "lat": 60.4518000,
+        "lon": 22.2666000,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Helsinki/Espoo",
+        "lat": 60.1920590,
+        "lon": 24.9458310,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Porvoo",
+        "lat": 60.3910000,
+        "lon": 25.6630000,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    },
+    {
+        "name": "Kotka",
+        "lat": 60.4664000,
+        "lon": 26.9458200,
+        "owners": ["funet"],
+        "networks": "CSC/FUNET"
+    }
+]

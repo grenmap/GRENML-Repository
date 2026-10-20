@@ -1,0 +1,415 @@
+[
+    {
+        "name": "Torino",
+        "lat": 45.0705,
+        "lon": 7.68682,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Ispra",
+        "lat": 45.8148,
+        "lon": 8.61294,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Como",
+        "lat": 45.80806,
+        "lon": 9.08521,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Milano",
+        "lat": 45.46427,
+        "lon": 9.18951,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Pavia",
+        "lat": 45.18472,
+        "lon": 9.15820,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Bergamo",
+        "lat": 45.69812,
+        "lon": 9.67727,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Trento",
+        "lat": 46.06787,
+        "lon": 11.12115,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Brescia",
+        "lat": 45.54156,
+        "lon": 10.21176,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Verona",
+        "lat": 45.43838,
+        "lon": 10.99162,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Padova",
+        "lat": 45.40643,
+        "lon": 11.87676,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Venezia",
+        "lat": 45.44084,
+        "lon": 12.31552,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Udine",
+        "lat": 46.07161,
+        "lon": 13.23548,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Trieste",
+        "lat": 45.64952,
+        "lon": 13.77681,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Genova",
+        "lat": 44.40565,
+        "lon": 8.94626,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Ferrara",
+        "lat": 44.83842,
+        "lon": 11.62048,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Legnaro",
+        "lat": 45.35000,
+        "lon": 11.85000,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Bologna",
+        "lat": 44.49489,
+        "lon": 11.34262,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Pisa",
+        "lat": 43.71667,
+        "lon": 10.40000,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Firenze",
+        "lat": 43.76956,
+        "lon": 11.25581,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Pesaro",
+        "lat": 43.90994,
+        "lon": 12.91359,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Urbino",
+        "lat": 43.72637,
+        "lon": 12.63671,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Perugia",
+        "lat": 43.11071,
+        "lon": 12.39083,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Ancona",
+        "lat": 43.61583,
+        "lon": 13.51894,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Gran Sasso",
+        "lat": 42.48754,
+        "lon": 13.54026,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "L\"Aquila",
+        "lat": 42.34999,
+        "lon": 13.39951,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Teramo",
+        "lat": 42.65753,
+        "lon": 13.70460,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Roma",
+        "lat": 41.90278,
+        "lon": 12.49636,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Fucino",
+        "lat": 42.07444,
+        "lon": 13.48750,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Pescara",
+        "lat": 42.46136,
+        "lon": 14.21608,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Sassari",
+        "lat": 40.72623,
+        "lon": 8.56297,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Golfo Aranci",
+        "lat": 40.94028,
+        "lon": 9.66528,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Nuoro",
+        "lat": 40.32115,
+        "lon": 9.32997,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Sos Enattos",
+        "lat": 40.32680,
+        "lon": 9.50140,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Cagliari",
+        "lat": 39.22384,
+        "lon": 9.12166,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Caserta",
+        "lat": 41.07235,
+        "lon": 14.33231,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Napoli",
+        "lat": 40.85216,
+        "lon": 14.26811,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Foggia",
+        "lat": 41.46094,
+        "lon": 15.54305,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Benevento",
+        "lat": 41.13070,
+        "lon": 14.78262,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Avellino",
+        "lat": 40.91400,
+        "lon": 14.79110,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Salerno",
+        "lat": 40.68244,
+        "lon": 14.76810,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Bari",
+        "lat": 41.11714,
+        "lon": 16.87187,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Matera",
+        "lat": 40.66629,
+        "lon": 16.60419,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Potenza",
+        "lat": 40.63947,
+        "lon": 15.80515,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Brindisi",
+        "lat": 40.63224,
+        "lon": 17.93609,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Taranto",
+        "lat": 40.46438,
+        "lon": 17.24703,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Lecce",
+        "lat": 40.35331,
+        "lon": 18.17402,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Cosenza",
+        "lat": 39.29890,
+        "lon": 16.25346,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Catanzaro",
+        "lat": 38.88247,
+        "lon": 16.60085,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Messina",
+        "lat": 38.19381,
+        "lon": 15.55400,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Reggio Calabria",
+        "lat": 38.11134,
+        "lon": 15.64728,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Palermo",
+        "lat": 38.11569,
+        "lon": 13.36148,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Trapani",
+        "lat": 38.01760,
+        "lon": 12.53617,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Catania",
+        "lat": 37.50788,
+        "lon": 15.08303,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Mazara del Vallo",
+        "lat": 37.65390,
+        "lon": 12.59104,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Agrigento",
+        "lat": 37.31109,
+        "lon": 13.57653,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Siracusa",
+        "lat": 37.07547,
+        "lon": 15.28659,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Ragusa",
+        "lat": 36.92585,
+        "lon": 14.72801,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Noto",
+        "lat": 36.89073,
+        "lon": 15.06635,
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "name": "Portopalo",
+        "lat": 36.67930,
+        "lon": 15.13305,
+        "networks": "GARR",
+        "owners": ["garr"]
+    }
+]

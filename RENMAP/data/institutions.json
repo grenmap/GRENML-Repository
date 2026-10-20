@@ -1,0 +1,102 @@
+[
+  {
+    "id": "geant",
+    "name": "GÉANT",
+    "tag": "pren"
+  },
+  {
+    "id": "redclara",
+    "name": "RedCLARA",
+    "tag": "pren"
+  },
+  {
+    "id": "amlight",
+    "name": "AmLight",
+    "tag": "pren"
+  },
+  {
+    "id": "ana",
+    "name": "ANA",
+    "tag": "pren"
+  },
+  {
+    "id": "aprex",
+    "name": "NA-REX",
+    "tag": "pren"
+  },
+  {
+    "id": "aer",
+    "name": "AER",
+    "tag": "pren"
+  },
+  {
+    "id": "aarnet-int",
+    "name": "AARNet International",
+    "tag": "pren"
+  },
+  {
+    "id": "jga",
+    "name": "JGA",
+    "tag": "pren"
+  },
+  {
+    "id": "bella",
+    "name": "BELLA",
+    "tag": "pren"
+  },
+  {
+    "id": "sanrentenet",
+    "name": "SANReN/TENET",
+    "tag": "pren"
+  },
+  {
+    "id": "cedia",
+    "name": "CEDIA",
+    "tag": "nren"
+  },
+  {
+    "id": "reuna",
+    "name": "REUNA",
+    "tag": "nren"
+  },
+  {
+    "id": "rnp",
+    "name": "RNP",
+    "tag": "nren"
+  },
+  {
+    "id": "aarnet",
+    "name": "AARNet",
+    "tag": "nren"
+  },
+  {
+    "id": "arnes",
+    "name": "ARNES",
+    "tag": "nren"
+  },
+  {
+    "id": "fccn",
+    "name": "FCCN",
+    "tag": "nren"
+  },
+  {
+    "id": "funet",
+    "name": "CSC/FUNET",
+    "tag": "nren"
+  },
+  {
+    "id": "heanet",
+    "name": "Asiera",
+    "tag": "nren"
+  },
+  {
+    "id": "garr",
+    "name": "GARR",
+    "tag": "nren"
+  },
+  {
+    "id": "canarie",
+    "name": "CANARIE Inc.",
+    "tag": "nren"
+  }
+]

@@ -1,0 +1,490 @@
+[
+    {
+        "a": "Ljubljana",
+        "b": "Škofja Loka",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Ljubljana",
+        "b": "Kranj",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Domžale",
+        "b": "Kamnik",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Ljubljana",
+        "b": "Domžale",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Ljubljana",
+        "b": "Celje",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Ljubljana",
+        "b": "Grosuplje",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Ljubljana",
+        "b": "Novo mesto",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Ljubljana",
+        "b": "Razdrto",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Ljubljana",
+        "b": "Vrhnika",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Kranj",
+        "b": "Radovljica",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Kranj",
+        "b": "Kamnik",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Kranj",
+        "b": "Škofja Loka",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Radovljica",
+        "b": "Jesenice",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Jesenice",
+        "b": "Tolmin",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Tolmin",
+        "b": "Nova Gorica",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Nova Gorica",
+        "b": "Sežana",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Sežana",
+        "b": "Vipava",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Vipava",
+        "b": "Ajdovščina",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Ajdovščina",
+        "b": "Idrija",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Idrija",
+        "b": "Logatec",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Logatec",
+        "b": "Vrhnika",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Logatec",
+        "b": "Postojna",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Postojna",
+        "b": "Sežana",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Sežana",
+        "b": "Divača",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Divača",
+        "b": "Portorož",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Portorož",
+        "b": "Izola",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Izola",
+        "b": "Koper",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Koper",
+        "b": "Razdrto",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Grosuplje",
+        "b": "Kočevje",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Kočevje",
+        "b": "Crnomelj",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Crnomelj",
+        "b": "Novo mesto",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Novo mesto",
+        "b": "Krško",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Krško",
+        "b": "Brežice",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Brežice",
+        "b": "Rogaška Slatina",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Grosuplje",
+        "b": "Ivančna Gorica",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Ivančna Gorica",
+        "b": "Litija",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Litija",
+        "b": "Zagorje ob Savi",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Zagorje ob Savi",
+        "b": "Trbovlje",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Trbovlje",
+        "b": "Laško",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Laško",
+        "b": "Celje",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Celje",
+        "b": "Šentjur",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Šentjur",
+        "b": "Rogaška Slatina",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Maribor",
+        "b": "Ruše",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Maribor",
+        "b": "Slovenska Bistrica",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Maribor",
+        "b": "Ptuj",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Maribor",
+        "b": "Gornja Radgona",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Gornja Radgona",
+        "b": "Radenci",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Radenci",
+        "b": "Murska Sobota",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Murska Sobota",
+        "b": "Lendava",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Lendava",
+        "b": "Ljutomer",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Ljutomer",
+        "b": "Ormož",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Ormož",
+        "b": "Ptuj",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Rogaška Slatina",
+        "b": "Ptuj",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Celje",
+        "b": "Slovenske Konjice",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Slovenske Konjice",
+        "b": "Slovenska Bistrica",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Celje",
+        "b": "Velenje",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Velenje",
+        "b": "Slovenj Gradec",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Slovenj Gradec",
+        "b": "Ravne na Koroškem",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Slovenj Gradec",
+        "b": "Dravograd",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Ravne na Koroškem",
+        "b": "Dravograd",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    },
+    {
+        "a": "Dravograd",
+        "b": "Ruše",
+        "networks": "ARNES",
+        "owners": [
+            "arnes"
+        ]
+    }
+]

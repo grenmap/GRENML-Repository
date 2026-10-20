@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Guam",
+        "lat": 13.4443,
+        "lon": 144.7937,
+        "owners": [
+            "aarnet-int"
+        ],
+        "networks": "AARNet International"
+    }
+]

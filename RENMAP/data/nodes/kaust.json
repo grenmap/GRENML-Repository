@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Singapore",
+        "lat": 1.3521,
+        "lon": 103.8198,
+        "networks": "AER; AARNet International",
+        "owners": [
+            "aer",
+            "aarnet-int"
+        ]
+    }
+]

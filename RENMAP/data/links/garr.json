@@ -1,0 +1,518 @@
+[
+    {
+        "a": "Torino",
+        "b": "Milano",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Milano",
+        "b": "Torino",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Torino",
+        "b": "Genova",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Genova",
+        "b": "Torino",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Milano",
+        "b": "Genova",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Genova",
+        "b": "Milano",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Milano",
+        "b": "Pavia",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Pavia",
+        "b": "Milano",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Milano",
+        "b": "Ispra",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Milano",
+        "b": "Como",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Como",
+        "b": "Milano",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Milano",
+        "b": "Bergamo",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Milano",
+        "b": "Bologna",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Bergamo",
+        "b": "Brescia",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Brescia",
+        "b": "Verona",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Verona",
+        "b": "Trento",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Verona",
+        "b": "Padova",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Trento",
+        "b": "Padova",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Padova",
+        "b": "Udine",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Padova",
+        "b": "Venezia",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Venezia",
+        "b": "Padova",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Padova",
+        "b": "Legnaro",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Padova",
+        "b": "Bologna",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Bologna",
+        "b": "Padova",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Padova",
+        "b": "Ferrara",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Ferrara",
+        "b": "Bologna",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Venezia",
+        "b": "Trieste",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Udine",
+        "b": "Trieste",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Genova",
+        "b": "Pisa",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Bologna",
+        "b": "Firenze",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Pisa",
+        "b": "Firenze",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Bologna",
+        "b": "Ancona",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Bologna",
+        "b": "Urbino",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Ancona",
+        "b": "Pesaro",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Pisa",
+        "b": "Roma",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Firenze",
+        "b": "Roma",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Firenze",
+        "b": "Perugia",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Ancona",
+        "b": "Teramo",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Roma",
+        "b": "L\"Aquila",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "L\"Aquila",
+        "b": "Gran Sasso",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "L\"Aquila",
+        "b": "Roma",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "L\"Aquila",
+        "b": "Fucino",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "L\"Aquila",
+        "b": "Pescara",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Gran Sasso",
+        "b": "Teramo",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Teramo",
+        "b": "Pescara",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Genova",
+        "b": "Golfo Aranci",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Roma",
+        "b": "Golfo Aranci",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Golfo Aranci",
+        "b": "Sassari",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Golfo Aranci",
+        "b": "Nuoro",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Nuoro",
+        "b": "Sos Enattos",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Sassari",
+        "b": "Cagliari",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Nuoro",
+        "b": "Cagliari",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Roma",
+        "b": "Napoli",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Napoli",
+        "b": "Roma",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Napoli",
+        "b": "Caserta",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Napoli",
+        "b": "Foggia",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Napoli",
+        "b": "Salerno",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Caserta",
+        "b": "Benevento",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Benevento",
+        "b": "Avellino",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Avellino",
+        "b": "Salerno",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Salerno",
+        "b": "Potenza",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Potenza",
+        "b": "Matera",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Pescara",
+        "b": "Bari",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Foggia",
+        "b": "Bari",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Bari",
+        "b": "Matera",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Bari",
+        "b": "Taranto",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Bari",
+        "b": "Brindisi",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Brindisi",
+        "b": "Lecce",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Lecce",
+        "b": "Taranto",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Taranto",
+        "b": "Catanzaro",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Salerno",
+        "b": "Cosenza",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Cosenza",
+        "b": "Catanzaro",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Catanzaro",
+        "b": "Reggio Calabria",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Cosenza",
+        "b": "Catania",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Reggio Calabria",
+        "b": "Messina",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Messina",
+        "b": "Palermo",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Catania",
+        "b": "Palermo",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Palermo",
+        "b": "Trapani",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Trapani",
+        "b": "Mazara del Vallo",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Mazara del Vallo",
+        "b": "Agrigento",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Agrigento",
+        "b": "Ragusa",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Catania",
+        "b": "Siracusa",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Siracusa",
+        "b": "Ragusa",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Siracusa",
+        "b": "Noto",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Noto",
+        "b": "Siracusa",
+        "networks": "GARR",
+        "owners": ["garr"]
+    },
+    {
+        "a": "Noto",
+        "b": "Portopalo",
+        "networks": "GARR",
+        "owners": ["garr"]
+    }
+]

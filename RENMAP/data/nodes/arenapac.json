@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Tokyo",
+        "lat": 35.6762,
+        "lon": 139.6503,
+        "networks": "AER; JGA",
+        "owners": ["aer", "jga"]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "a": "Miami",
+        "b": "Panama City",
+        "owners": [
+            "redclara",
+            "amlight"
+        ],
+        "networks": "RedCLARA; AmLight"
+    },
+    {
+        "a": "Miami",
+        "b": "San Juan",
+        "owners": [
+            "redclara",
+            "amlight"
+        ],
+        "networks": "RedCLARA; AmLight"
+    },
+    {
+        "a": "Panama City",
+        "b": "Santiago",
+        "owners": [
+            "redclara",
+            "amlight"
+        ],
+        "networks": "RedCLARA; AmLight"
+    },
+    {
+        "a": "Panama City",
+        "b": "Fortaleza",
+        "owners": [
+            "redclara",
+            "amlight"
+        ],
+        "networks": "RedCLARA; AmLight"
+    },
+    {
+        "a": "San Juan",
+        "b": "Fortaleza",
+        "owners": [
+            "redclara",
+            "amlight"
+        ],
+        "networks": "RedCLARA; AmLight"
+    },
+    {
+        "a": "Sao Paulo",
+        "b": "Porto Alegre",
+        "owners": [
+            "redclara",
+            "amlight"
+        ],
+        "networks": "RedCLARA; AmLight"
+    },
+    {
+        "a": "Sao Paulo",
+        "b": "Santiago",
+        "owners": [
+            "redclara",
+            "amlight"
+        ],
+        "networks": "RedCLARA; AmLight"
+    },
+    {
+        "a": "Porto Alegre",
+        "b": "Buenos Aires",
+        "owners": [
+            "redclara",
+            "amlight"
+        ],
+        "networks": "RedCLARA; AmLight"
+    },
+    {
+        "a": "Buenos Aires",
+        "b": "Santiago",
+        "owners": [
+            "redclara",
+            "amlight"
+        ],
+        "networks": "RedCLARA; AmLight"
+    },
+    {
+        "a": "Panama City",
+        "b": "Manta",
+        "owners": [
+            "redclara",
+            "cedia"
+        ],
+        "networks": "RedCLARA; CEDIA"
+    },
+    {
+        "a": "Santiago",
+        "b": "La Serena",
+        "owners": [
+            "redclara",
+            "reuna"
+        ],
+        "networks": "RedCLARA; REUNA"
+    }
+]

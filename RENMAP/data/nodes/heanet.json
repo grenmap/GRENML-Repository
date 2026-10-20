@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Letterkenny",
+        "lat": 54.9500000,
+        "lon": -7.7333000,
+        "owners": ["heanet"],
+        "networks": "Asiera"
+    },
+    {
+        "name": "Sligo",
+        "lat": 54.2706000,
+        "lon": -8.4716430,
+        "owners": ["heanet"],
+        "networks": "Asiera"
+    },
+    {
+        "name": "Dundalk",
+        "lat": 54.0000000,
+        "lon": -6.4167000,
+        "owners": ["heanet"],
+        "networks": "Asiera"
+    },
+    {
+        "name": "Castlebar",
+        "lat": 53.8500000,
+        "lon": -9.3000000,
+        "owners": ["heanet"],
+        "networks": "Asiera"
+    },
+    {
+        "name": "Galway",
+        "lat": 53.2709620,
+        "lon": -9.0626910,
+        "owners": ["heanet"],
+        "networks": "Asiera"
+    },
+    {
+        "name": "Athlone",
+        "lat": 53.4239000,
+        "lon": -7.9407000,
+        "owners": ["heanet"],
+        "networks": "Asiera"
+    },
+    {
+        "name": "Limerick",
+        "lat": 52.6638000,
+        "lon": -8.6267000,
+        "owners": ["heanet"],
+        "networks": "Asiera"
+    },
+    {
+        "name": "Carlow",
+        "lat": 52.8400000,
+        "lon": -6.9300000,
+        "owners": ["heanet"],
+        "networks": "Asiera"
+    },
+    {
+        "name": "Tipperary",
+        "lat": 52.5000000,
+        "lon": -8.1667000,
+        "owners": ["heanet"],
+        "networks": "Asiera"
+    },
+    {
+        "name": "Wexford",
+        "lat": 52.3341700,
+        "lon": -6.4575000,
+        "owners": ["heanet"],
+        "networks": "Asiera"
+    },
+    {
+        "name": "Tralee",
+        "lat": 52.2667000,
+        "lon": -9.7000000,
+        "owners": ["heanet"],
+        "networks": "Asiera"
+    },
+    {
+        "name": "Waterford",
+        "lat": 52.2583300,
+        "lon": -7.1119400,
+        "owners": ["heanet"],
+        "networks": "Asiera"
+    },
+    {
+        "name": "Park West",
+        "lat": 53.3317000,
+        "lon": -6.3750000,
+        "owners": ["heanet"],
+        "networks": "Asiera"
+    },
+    {
+        "name": "Citywest",
+        "lat": 53.2877000,
+        "lon": -6.4308000,
+        "owners": ["heanet"],
+        "networks": "Asiera"
+    }
+]
