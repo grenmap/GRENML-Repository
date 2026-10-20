@@ -27,6 +27,15 @@
     "networks": "RNP"
   },
   {
+    "name": "Rio Branco",
+    "lat": -9.97,
+    "lon": -67.81,
+    "owners": [
+      "rnp"
+    ],
+    "networks": "RNP"
+  },
+  {
     "name": "Santarem",
     "lat": -2.44,
     "lon": -54.70,
