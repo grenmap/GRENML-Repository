@@ -57,6 +57,12 @@ def counts_by_owner(elements):
     return counter
 
 
+def verification_label(inst):
+    if inst.get("verified_by"):
+        return f'verified by {inst["verified_by"]} on {inst.get("verified_on")}'
+    return "AI-generated (not verified)"
+
+
 def summarize(base_dir, head_dir):
     base_inst, base_nodes, base_links = load(base_dir)
     head_inst, head_nodes, head_links = load(head_dir)
@@ -92,6 +98,12 @@ def summarize(base_dir, head_dir):
         "Institutions changed",
         [f"{k}: {base_inst[k]} → {head_inst[k]}"
          for k in base_inst.keys() & head_inst.keys() if base_inst[k] != head_inst[k]],
+    )
+    sections += bullet_list(
+        "Verification changes",
+        [f"{head_inst[k]['name']}: {verification_label(base_inst[k])} → {verification_label(head_inst[k])}"
+         for k in sorted(base_inst.keys() & head_inst.keys())
+         if verification_label(base_inst[k]) != verification_label(head_inst[k])],
     )
     sections += bullet_list("Nodes added", head_nodes.keys() - base_nodes.keys())
     sections += bullet_list("Nodes removed", base_nodes.keys() - head_nodes.keys())

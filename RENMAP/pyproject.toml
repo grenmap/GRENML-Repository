@@ -7,3 +7,11 @@ dependencies = [
     "grenml>=1.0.0",
     "importlib-resources>=7.1.0",
 ]
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
