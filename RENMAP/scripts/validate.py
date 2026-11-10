@@ -14,6 +14,7 @@ import json
 import subprocess
 import sys
 import tempfile
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 RENMAP_DIR = Path(__file__).resolve().parent.parent
@@ -23,6 +24,10 @@ GENERATE_SCRIPT = Path(__file__).resolve().parent / "generate.py"
 VALID_TAGS = {"nren", "pren"}
 
 INSTITUTION_FIELDS = {"id": str, "name": str, "tag": str}
+# A network is "verified" once someone has checked its data by hand;
+# the two fields go together. Without them the map shows it as
+# AI-generated.
+OPTIONAL_INSTITUTION_FIELDS = {"verified_by": str, "verified_on": str}
 NODE_FIELDS = {"name": str, "lat": (int, float), "lon": (int, float),
                "owners": list, "networks": str}
 LINK_FIELDS = {"a": str, "b": str, "owners": list, "networks": str}
@@ -63,8 +68,12 @@ def load_list(path, report):
     return data
 
 
-def check_fields(item, fields, where, report):
-    """Check required fields and their types. True if the item is usable."""
+def check_fields(item, fields, where, report, optional=None):
+    """
+    Check required fields, the optional ones present, and their types.
+    True if the item is usable.
+    """
+    optional = optional or {}
     if not isinstance(item, dict):
         report.error(where, "each item must be a JSON object ({ ... })")
         return False
@@ -81,9 +90,37 @@ def check_fields(item, fields, where, report):
                 where, f'field "{field}" must be {TYPE_NAMES[expected]}, got {value!r}'
             )
             ok = False
-    for field in item.keys() - fields.keys():
+    for field in item.keys() & optional.keys():
+        if not isinstance(item[field], optional[field]):
+            report.error(
+                where, f'field "{field}" must be {TYPE_NAMES[optional[field]]}, got {item[field]!r}'
+            )
+            ok = False
+    for field in item.keys() - fields.keys() - optional.keys():
         report.error(where, f'unknown field "{field}"')
     return ok
+
+
+def check_verification(inst, where, report):
+    """verified_by and verified_on: both or neither, a real, past date."""
+    verified_by = inst.get("verified_by")
+    verified_on = inst.get("verified_on")
+    if verified_by is None and verified_on is None:
+        return
+    if not verified_by or not verified_by.strip():
+        report.error(where, '"verified_on" needs "verified_by" (who checked the data)')
+    if verified_on is None:
+        report.error(where, '"verified_by" needs "verified_on" (the date it was checked, YYYY-MM-DD)')
+        return
+    try:
+        day = date.fromisoformat(verified_on)
+    except ValueError:
+        report.error(where, f'"verified_on" must be a date as YYYY-MM-DD, got "{verified_on}"')
+        return
+    if len(verified_on) != 10:
+        report.error(where, f'"verified_on" must be a date as YYYY-MM-DD, got "{verified_on}"')
+    elif day > datetime.now(timezone.utc).date():
+        report.error(where, f'"verified_on" is in the future: {verified_on}')
 
 
 def check_owners(owners, institution_ids, where, report):
@@ -108,8 +145,9 @@ def validate(data_dir=DATA_DIR):
     else:
         for i, inst in enumerate(load_list(institutions_path, report) or []):
             where = f"{rel(institutions_path)}[{i}]"
-            if not check_fields(inst, INSTITUTION_FIELDS, where, report):
+            if not check_fields(inst, INSTITUTION_FIELDS, where, report, OPTIONAL_INSTITUTION_FIELDS):
                 continue
+            check_verification(inst, where, report)
             if inst["tag"] not in VALID_TAGS:
                 report.error(
                     where, f'"tag" must be one of {sorted(VALID_TAGS)}, got "{inst["tag"]}"'

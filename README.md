@@ -45,6 +45,30 @@ institution is the `owners` field.
 | `id`   | Short identifier used in `owners`. Unique. |
 | `name` | Name shown on the map. Unique. |
 | `tag`  | `nren` (national network) or `pren` (regional/international network). |
+| `verified_by` | Optional. Who checked this network's data by hand (e.g. a GitHub username). |
+| `verified_on` | Optional. When it was checked, as `YYYY-MM-DD`. Required with `verified_by`. |
+
+#### Verified and AI-generated networks
+
+Most of this data was compiled semi-automatically and partly extracted with AI. The
+map says so: every network shows an **AI-generated** badge until someone checks it
+by hand. After checking a network's nodes and links against a reliable source,
+open a pull request that adds both fields to its entry:
+
+```json
+{ "id": "rnp", "name": "RNP", "tag": "nren", "verified_by": "hugoromao", "verified_on": "2026-11-10" }
+```
+
+The map then shows a **Verified** badge with who checked it and when. Remove the two
+fields if the data is found to be unreliable again.
+
+#### Last update date
+
+The map also shows when each network's data last changed, with a link to that
+change. Nobody fills this in: the generator takes it from the git history of
+`main` (the last merged change to the network's entry in `institutions.json` or to
+any node or link it owns, in any file). Changes to scripts or documentation don't
+count.
 
 > **Renaming an institution resets its map popup.** The GRENML ID is derived from
 > the name, so the server treats a renamed institution as a new one. After the
@@ -92,9 +116,12 @@ Optional: the pull request workflow runs the same checks. You need
 ```sh
 uv run --project RENMAP RENMAP/scripts/validate.py   # check the data
 uv run --project RENMAP RENMAP/scripts/generate.py --output-dir /tmp/grenml   # generate the XML
+uv run --project RENMAP pytest -q RENMAP   # test the scripts
 ```
 
-The generator is deterministic: the same data always produces byte-identical XML.
+The generator is deterministic: the same data and git history always produce
+byte-identical XML. It needs the full history to date each network's last change;
+in a shallow clone it warns and leaves the dates out.
 
 ## Other folders
 

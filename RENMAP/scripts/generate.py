@@ -17,7 +17,10 @@ from pathlib import Path
 import grenml
 from grenml.models import Institution, Node, Link
 
+from history import commit_url, last_changes
+
 RENMAP_DIR = Path(__file__).resolve().parent.parent
+REPO_ROOT = RENMAP_DIR.parent
 DATA_DIR = RENMAP_DIR / "data"
 
 COMBINED_NAME = "Topology"
@@ -46,11 +49,32 @@ def load_data(data_dir=DATA_DIR):
     return institutions, nodes, links
 
 
+def provenance_properties(inst, changes):
+    """
+    GRENML properties telling the map how far to trust an institution's
+    data and when it last changed. Networks nobody has verified yet are
+    marked as AI-generated: that's where the data came from.
+    """
+    if inst.get("verified_by"):
+        properties = {
+            "trust_level": "verified",
+            "verified_by": inst["verified_by"],
+            "verified_on": inst["verified_on"],
+        }
+    else:
+        properties = {"trust_level": "ai_generated"}
+    if changes and inst["id"] in changes:
+        day, sha = changes[inst["id"]]
+        properties["data_updated_on"] = day
+        properties["data_updated_url"] = commit_url(sha)
+    return properties
+
+
 def link_sort_key(link):
     return (link["a"], link["b"], tuple(link["owners"]))
 
 
-def build_manager(name, primary_owner_id, institutions, nodes, node_names, links):
+def build_manager(name, primary_owner_id, institutions, nodes, node_names, links, changes=None):
     """
     Build a GRENMLManager containing only the given nodes and links,
     plus every institution (so co-ownership references stay valid).
@@ -60,7 +84,9 @@ def build_manager(name, primary_owner_id, institutions, nodes, node_names, links
     institution_ids = {}
     for inst in institutions:
         institution_ids[inst["id"]] = manager.add_institution(
-            Institution(name=inst["name"], tag=inst["tag"])
+            Institution(
+                name=inst["name"], tag=inst["tag"], **provenance_properties(inst, changes)
+            )
         )
 
     manager.set_primary_owner(institution_ids[primary_owner_id])
@@ -103,7 +129,7 @@ def build_manager(name, primary_owner_id, institutions, nodes, node_names, links
     return manager
 
 
-def generate(output_dir=RENMAP_DIR, data_dir=DATA_DIR):
+def generate(output_dir=RENMAP_DIR, data_dir=DATA_DIR, changes=None):
     institutions, nodes, links = load_data(data_dir)
     output_dir = Path(output_dir)
 
@@ -111,7 +137,7 @@ def generate(output_dir=RENMAP_DIR, data_dir=DATA_DIR):
     # COMBINED TOPOLOGY (every network together)
     # -------------------------
     combined = build_manager(
-        COMBINED_NAME, COMBINED_OWNER, institutions, nodes, nodes.keys(), links
+        COMBINED_NAME, COMBINED_OWNER, institutions, nodes, nodes.keys(), links, changes
     )
     combined.write_to_file(str(output_dir / "topologies.xml"))
 
@@ -140,7 +166,7 @@ def generate(output_dir=RENMAP_DIR, data_dir=DATA_DIR):
         }
 
         network = build_manager(
-            inst["name"], owner_id, institutions, nodes, needed_node_names, owner_links
+            inst["name"], owner_id, institutions, nodes, needed_node_names, owner_links, changes
         )
 
         tag_dir = per_network_dir / inst["tag"]
@@ -164,7 +190,15 @@ def main():
     )
     args = parser.parse_args()
     args.output_dir.mkdir(parents=True, exist_ok=True)
-    generate(args.output_dir)
+
+    changes = last_changes(REPO_ROOT, DATA_DIR.relative_to(REPO_ROOT).as_posix())
+    if changes is None:
+        print(
+            "warning: no git history (not a checkout, or a shallow clone); "
+            "the GRENML won't say when each network was last updated",
+            file=sys.stderr,
+        )
+    generate(args.output_dir, changes=changes)
 
 
 if __name__ == "__main__":
